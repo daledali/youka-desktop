@@ -18,7 +18,7 @@ $ git clone https://github.com/youkaclub/youka-desktop.git
 $ cd youka-desktop
 $ npm install
 # windows
-$ npm start:windows
+$ npm run start:windows
 # mac or linux
 $ npm start
 # wait for "Compiled successfully!" message then refresh (Cmd+R) the electron window.
